@@ -1,0 +1,13 @@
+﻿EmpID,Name,Department,Salary,Experience,City
+E101,Raj,IT,60000,3,Kolkata
+E102,Simran,HR,40000,2,Delhi
+E103,Amit,Finance,50000,4,Mumbai
+E104,Pooja,IT,75000,5,Delhi
+E105,Rohit,HR,42000,3,Kolkata
+E106,Sneha,Finance,68000,6,Delhi
+E107,Karan,IT,55000,2,Mumbai
+E108,Neha,Finance,72000,7,Bangalore
+E109,Vikas,HR,39000,1,Kolkata
+E110,Riya,IT,80000,6,Delhi
+E111,Ankit,Finance,52000,3,Mumbai
+E112,Priya,HR,45000,4,Bangalore
