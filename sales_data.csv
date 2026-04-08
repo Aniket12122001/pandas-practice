@@ -1,0 +1,13 @@
+﻿OrderID,CustomerID,Product,Category,City,Price,Quantity,Date,PaymentMode
+1001,C101,Laptop,Electronics,Kolkata,55000,1,15-01-2024,UPI
+1002,C102,Phone,Electronics,Delhi,20000,2,16-01-2024,Credit Card
+1003,C103,Shoes,Fashion,Mumbai,3000,1,17-01-2024,Cash
+1004,C101,Headphones,Electronics,Kolkata,1500,2,01-02-2024,UPI
+1005,C104,T-Shirt,Fashion,Bangalore,800,3,03-02-2024,Debit Card
+1006,C105,Laptop,Electronics,Delhi,60000,1,10-02-2024,Credit Card
+1007,C106,Watch,Accessories,Mumbai,2500,2,15-02-2024,UPI
+1008,C102,Shoes,Fashion,Delhi,3500,1,01-03-2024,Cash
+1009,C107,Phone,Electronics,Kolkata,18000,1,05-03-2024,UPI
+1010,C108,Backpack,Accessories,Bangalore,1200,2,08-03-2024,Debit Card
+1011,C109,Laptop,Electronics,Mumbai,58000,1,12-03-2024,Credit Card
+1012,C110,T-Shirt,Fashion,Kolkata,900,2,15-03-2024,Cash
